@@ -52,6 +52,16 @@ const API_SITES = {
         name: '黑木耳',
         detail: 'https://heimuer.tv', 
     },
+    FreeOK: {
+        api: 'https://www.freeok.lv/api.php/provide/vod',
+        name: 'FreeOK',
+        detail: 'https://www.freeok.lv', 
+    },
+    555: {
+        api: 'https://www.555gy.cc/api.php/provide/vod',
+        name: '555',
+        detail: 'https://www.555gy.cc', 
+    },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
