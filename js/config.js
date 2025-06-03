@@ -130,6 +130,7 @@ const API_SITES = {
     nn:    {
         api: 'https://niuniuzy6.com/api.php/provide/vod',
         name: '18+牛牛资源',
+        adult: true
      },
      jkun: {
          api: 'https://jkunzyapi.com',
