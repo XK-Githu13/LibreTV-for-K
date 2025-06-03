@@ -56,10 +56,6 @@ const API_SITES = {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
     },
-    nn: {
-        api: 'https://niuniuzy6.com/api.php/provide/vod',
-        name: '18+牛牛资源',
-    },
     iqiyi: {
         api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
         name: 'iqiyi资源',
@@ -130,6 +126,10 @@ const API_SITES = {
          api: 'https://www.ckzy1.com',
          name: '18+CK资源',
          adult: true
+     },
+    nn:    {
+        api: 'https://niuniuzy6.com/api.php/provide/vod',
+        name: '18+牛牛资源',
      },
      jkun: {
          api: 'https://jkunzyapi.com',
