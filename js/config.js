@@ -153,7 +153,7 @@ const API_SITES = {
          adult: true
      },
      lsb: {
-         api: 'https://apilsbzy1.com',
+         api: 'https://apilsbzy.com',
          name: '18+lsb资源',
          adult: true
      },
