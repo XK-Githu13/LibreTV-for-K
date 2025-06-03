@@ -128,7 +128,7 @@ const API_SITES = {
          adult: true
      },
     nn:    {
-        api: 'https://niuniuzy6.com/api.php/provide/vod',
+        api: 'https://niuniuzy6.com',
         name: '18+牛牛资源',
         adult: true
      },
